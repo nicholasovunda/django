@@ -2,6 +2,7 @@
     "python.formatting.provider": "black",
     "editor.formatOnSave": true,
     "cSpell.words": [
+        "etkrm",
         "fullstackcourse",
         "psycopg"
     ],
